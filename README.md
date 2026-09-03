@@ -2,11 +2,7 @@
 
 In this activity, we will walk through how to create a mad libs style program that uses formatted strings, user input, and variables.
 
-Before starting this activity, be sure to have completed:
-
-* Lesson 0 (Getting Set Up For Computer Science)
-* Lesson 1 (Introduction to Python)
-* Lesson 2 (Input, Process, Output)
+Once you have completed the tutorial portion of this activity, be sure to also complete the [Extension Activity](#extension-activity-create-your-own-mad-lib)
 
 ## 1. Create a Root Folder
 
