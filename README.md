@@ -4,6 +4,8 @@ In this activity, we will walk through how to create a mad libs style program th
 
 Once you have completed the tutorial portion of this activity, be sure to also complete the [Extension Activity](#extension-activity-create-your-own-mad-lib)
 
+If you'd like you can follow along in [this video here](https://youtu.be/bzqTR1dTEBE?si=v_DO_Q69JvBrJSD9) as well!
+
 ## 1. Create a Root Folder
 
 Whenever you are creating a new Python project, it is best to stay organized by placing all the files related to the project in the same folder. Create a folder for this activity.
